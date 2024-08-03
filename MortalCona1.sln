@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortalCona1", "MortalCona1\MortalCona1.csproj", "{FCBD42C6-CE88-4279-9F80-645EBE0CE0BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBD42C6-CE88-4279-9F80-645EBE0CE0BF}.Debug|x86.ActiveCfg = Debug|x86
+		{FCBD42C6-CE88-4279-9F80-645EBE0CE0BF}.Debug|x86.Build.0 = Debug|x86
+		{FCBD42C6-CE88-4279-9F80-645EBE0CE0BF}.Release|x86.ActiveCfg = Release|x86
+		{FCBD42C6-CE88-4279-9F80-645EBE0CE0BF}.Release|x86.Build.0 = Release|x86
+		{5A794E7A-A3E1-4084-BD3B-140D1AAC131F}.Debug|x86.ActiveCfg = Debug|x86
+		{5A794E7A-A3E1-4084-BD3B-140D1AAC131F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
