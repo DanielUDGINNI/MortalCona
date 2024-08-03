@@ -1,0 +1,470 @@
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin1.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin2.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoportada.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.exe
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.pdb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.exe
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.pdb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondomenu.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar1.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar2.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar1.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar2.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos1.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos2.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir1.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir2.xnb
+C:\Users\DELL\Documents\Visual Studio 2005\Projects\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imagenmouse.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoportada.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondomenu.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imagenmouse.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.exe
+D:\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.pdb
+D:\MortalCona1\MortalCona1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MortalCona1\MortalCona1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.exe
+D:\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.pdb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoescenarios.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondocreditos.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenariograffiti1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading3.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading5.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading4.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading6.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenario2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoportada.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondomenu.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imagenmouse.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoescenarios.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondocreditos.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenariograffiti1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading3.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading5.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading4.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading6.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenario2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.exe
+E:\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.pdb
+E:\MortalCona1\MortalCona1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MortalCona1\MortalCona1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.exe
+E:\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.pdb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picS1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW3.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picP1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK3.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picD1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picAbajo1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ3.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ4.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picS1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW3.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picP1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK3.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picD1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picAbajo1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ3.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ4.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojuga.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojuga.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\abajo.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\defense.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\jumping.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\parado1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\puching1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida10.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida100.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida20.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida40.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida60.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida80.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop1wins.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop2wins.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\abajo.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\defense.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\jumping.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\parado1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\puching1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking2.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida10.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida100.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida20.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida40.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida60.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida80.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida10.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida100.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida20.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida40.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida60.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida80.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop1wins.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop2wins.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\abajo.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\defense.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\jumping.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\parado1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\puching1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\abajo.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\defense.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\jumping.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\parado1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\puching1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking2.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida10.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida100.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida20.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida40.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida60.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida80.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picD1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picJ4.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picK3.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picP1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picS1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW1.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW3.xnb
+E:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picAbajo1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picD1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picJ4.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picK3.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picP1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picS1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW3.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picAbajo1.xnb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Sonidos.xgs
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Wave Bank.xwb
+D:\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Sound Bank.xsb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoportada.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondomenu.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imagenmouse.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoescenarios.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondocreditos.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenariograffiti1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading3.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading5.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading4.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading6.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenario2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picS1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW3.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picP1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK3.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picD1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picAbajo1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ3.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ4.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida10.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida100.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida20.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida40.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida60.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida80.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop1wins.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop2wins.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\abajo.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\defense.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\jumping.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\parado1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\puching1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojuga.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida10.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida100.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida20.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida40.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida60.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida80.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picD1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picJ4.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picK3.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picP1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picS1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW3.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picAbajo1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Sonidos.xgs
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Wave Bank.xwb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Sound Bank.xsb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.exe
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.pdb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.exe
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.pdb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\abajo.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\defense.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\jumping.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking2.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\parado1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\puching1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoportada.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondomenu.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\salir2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imagenmouse.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoescenarios.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondocreditos.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenariograffiti1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading3.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading5.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading4.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading6.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escen2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\escenario2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picS1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW3.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picP1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK3.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picD1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picAbajo1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ3.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ4.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida10.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida100.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida20.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida40.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida60.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida80.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop1wins.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop2wins.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgfondos\comojuga.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picD1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picJ4.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picK3.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picP1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picS1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW3.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picAbajo1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\abajo.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\defense.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida10.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida100.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida20.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida40.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida60.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida80.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\jumping.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\parado1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\puching1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\abajo.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\defense.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\jumping.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\parado1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\puching1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking1.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking2.xnb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Sonidos.xgs
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Wave Bank.xwb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\Sound\Sound Bank.xsb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.exe
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\MortalCona1.pdb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.exe
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\obj\x86\Debug\MortalCona1.pdb
+D:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\respaldooooooooooooooo\MortalCona1\MortalCona1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\insertcoin2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoportada.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\fondomenu.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\jugar2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\comojugar2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\creditos2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\salir1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\salir2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\imagenmouse.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\fondoescenarios.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\fondocreditos.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\escen1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\escenariograffiti1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading3.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading5.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading4.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\imgloading6.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\escen2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\escenario2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picS1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picW3.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picP1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picK3.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picD1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picAbajo1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ3.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\picJ4.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida10.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida100.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida20.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida40.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida60.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer1\imgvida80.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop1wins.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\fondop2wins.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgfondos\comojuga.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picD1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picJ4.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picK3.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picP1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picS1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picW3.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer11\picAbajo1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\abajo.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\defense.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida10.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida100.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida20.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida40.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida60.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\img2vida80.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\jumping.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\kicking2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\parado1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\puching1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer2\walking2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\abajo.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\defense.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\jumping.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\kicking2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\parado1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\puching1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\imgPlayer22\walking2.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\Sound\Sonidos.xgs
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\Sound\Wave Bank.xwb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\Content\Sound\Sound Bank.xsb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\MortalCona1.exe
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\bin\x86\Debug\MortalCona1.pdb
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\obj\x86\Debug\MortalCona1.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\obj\x86\Debug\MortalCona1.exe
+C:\Users\DELL\Documents\Software Conalep\PROYECTO FINAL VIDEOJUEGO\MortalCona1\obj\x86\Debug\MortalCona1.pdb
