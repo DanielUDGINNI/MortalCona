@@ -18,3 +18,5 @@ This game was developed as a final project to simulate a famous fighting game on
 <div>
 <img src="Images/cona9.png" width="400" height="300" />
 </div>
+
+<p>Developed by Daniel Vazquez and Pabloo Nava</p>
